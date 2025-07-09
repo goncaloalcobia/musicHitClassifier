@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 Hit Music Classifier
 
 Uses **Machine Learning** to classify musics as **hits** or **non-hits**, based on audio features such as tempo, energy, duration, and popularity.
@@ -81,3 +82,7 @@ All models were trained and evaluated using scikit-learn pipelines with scaling,
 This project is under the MIT License.
 
 
+=======
+# musicHitClassifier
+Uses Machine Learning to classify musics as hits or non hits
+>>>>>>> 0984751362677c93b9df423e5bbe049b265d59a4
