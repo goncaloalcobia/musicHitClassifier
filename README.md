@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎵 Hit Music Classifier
 
 Uses **Machine Learning** to classify musics as **hits** or **non-hits**, based on audio features such as tempo, energy, duration, and popularity.
